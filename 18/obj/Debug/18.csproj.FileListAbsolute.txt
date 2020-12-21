@@ -1,0 +1,390 @@
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.exe.config
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\_18.Form1.resources
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\_18.Properties.Resources.resources
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\18.exe.config
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\18.exe
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\18.pdb
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\netstandard.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.AppContext.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Collections.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ComponentModel.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Console.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Data.Common.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Globalization.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.Compression.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.Pipes.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Linq.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.Http.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.Ping.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.Requests.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.Security.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ObjectModel.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Reflection.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Resources.Reader.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Resources.Writer.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Claims.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.Principal.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Security.SecureString.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.Encoding.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Thread.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Timer.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\Npgsql.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.Json.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Channels.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\Npgsql.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Text.Json.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Channels.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\пиздец\18\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.csproj.CopyComplete
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.exe
+C:\Users\Admin\Desktop\пиздец\18\obj\Debug\18.pdb
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\18.exe.config
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\18.exe
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\18.pdb
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\netstandard.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.AppContext.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Collections.Concurrent.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Collections.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Collections.NonGeneric.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Collections.Specialized.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ComponentModel.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Console.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Data.Common.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.Debug.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.Process.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.Tools.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Drawing.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Dynamic.Runtime.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Globalization.Calendars.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Globalization.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Globalization.Extensions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.Compression.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.FileSystem.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.Pipes.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Linq.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Linq.Expressions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Linq.Parallel.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Linq.Queryable.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.Http.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.NameResolution.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.NetworkInformation.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.Ping.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.Requests.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.Security.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.Sockets.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Net.WebSockets.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ObjectModel.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Reflection.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Reflection.Extensions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Reflection.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Resources.Reader.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Resources.ResourceManager.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Resources.Writer.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Extensions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Handles.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.InteropServices.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Numerics.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Claims.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.Principal.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Security.SecureString.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.Encoding.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.RegularExpressions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Overlapped.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Tasks.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Thread.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.ThreadPool.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Timer.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Xml.XDocument.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Xml.XmlDocument.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Xml.XPath.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\Npgsql.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Buffers.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Memory.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Numerics.Vectors.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.Encodings.Web.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.Json.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Channels.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ValueTuple.dll
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\Npgsql.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Buffers.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Memory.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Numerics.Vectors.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.Encodings.Web.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Text.Json.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Channels.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\bin\Debug\System.ValueTuple.xml
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.csprojAssemblyReference.cache
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.exe.config
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\_18.Form1.resources
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\_18.Properties.Resources.resources
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.csproj.GenerateResource.cache
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.csproj.CopyComplete
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.exe
+D:\Study\Отчёты\БД\Доронин БД 19\19\18\obj\Debug\18.pdb
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\18.exe.config
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\18.exe
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\18.pdb
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\netstandard.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.AppContext.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Collections.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Collections.Specialized.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ComponentModel.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Console.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Data.Common.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Globalization.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.Compression.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.FileSystem.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.Pipes.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Linq.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Linq.Expressions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Linq.Parallel.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Linq.Queryable.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.Http.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.NameResolution.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.Ping.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.Requests.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.Security.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.Sockets.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Net.WebSockets.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ObjectModel.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Reflection.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Resources.Reader.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Resources.Writer.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Handles.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Claims.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.Principal.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Security.SecureString.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.Encoding.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Tasks.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Thread.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Timer.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Xml.XDocument.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Xml.XPath.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\Npgsql.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Buffers.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Memory.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.Json.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Channels.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ValueTuple.dll
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\Npgsql.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Buffers.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Memory.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Text.Json.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Channels.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\bin\Debug\System.ValueTuple.xml
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.csprojAssemblyReference.cache
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.exe.config
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\_18.Properties.Resources.resources
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.csproj.GenerateResource.cache
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.csproj.CoreCompileInputs.cache
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.csproj.CopyComplete
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.exe
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\18.pdb
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\_18.MenuSport.resources
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\_18.AddChangeSMForm.resources
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\_18.AddChangeTrForm.resources
+C:\Users\analgesia\Documents\Visual Studio 2019\Projects\19\18\obj\Debug\_18.SMBDQueryResult.resources
