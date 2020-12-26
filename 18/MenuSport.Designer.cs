@@ -29,175 +29,160 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.TrenerGrid = new System.Windows.Forms.DataGridView();
-            this.AddSMButton = new System.Windows.Forms.Button();
-            this.UpdateButton = new System.Windows.Forms.Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MenuSport));
+            this.AddButton = new System.Windows.Forms.Button();
             this.RemoveButton = new System.Windows.Forms.Button();
-            this.SportsManGrid = new System.Windows.Forms.DataGridView();
-            this.AddTrButton = new System.Windows.Forms.Button();
-            this.ChangeSM = new System.Windows.Forms.Button();
-            this.RemoveTR = new System.Windows.Forms.Button();
+            this.dataGrid = new System.Windows.Forms.DataGridView();
+            this.ChangeButton = new System.Windows.Forms.Button();
             this.countButton = new System.Windows.Forms.Button();
-            this.trCountButton = new System.Windows.Forms.Button();
-            this.SelectNotAllSMButton = new System.Windows.Forms.Button();
+            this.toolStrip1 = new System.Windows.Forms.ToolStrip();
+            this.stripButton1 = new System.Windows.Forms.ToolStripButton();
+            this.stripButton2 = new System.Windows.Forms.ToolStripButton();
             this.trenerBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.cityBox = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.TrenerGrid)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.SportsManGrid)).BeginInit();
+            this.FilterButton = new System.Windows.Forms.Button();
+            this.reportButton = new System.Windows.Forms.Button();
+            this.diagramButton = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).BeginInit();
+            this.toolStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trenerBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
-            // TrenerGrid
+            // AddButton
             // 
-            this.TrenerGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.TrenerGrid.Location = new System.Drawing.Point(550, 12);
-            this.TrenerGrid.Name = "TrenerGrid";
-            this.TrenerGrid.Size = new System.Drawing.Size(485, 483);
-            this.TrenerGrid.TabIndex = 1;
-            // 
-            // AddSMButton
-            // 
-            this.AddSMButton.Location = new System.Drawing.Point(12, 563);
-            this.AddSMButton.Name = "AddSMButton";
-            this.AddSMButton.Size = new System.Drawing.Size(146, 38);
-            this.AddSMButton.TabIndex = 2;
-            this.AddSMButton.Text = "Добавить Спортсмена";
-            this.AddSMButton.UseVisualStyleBackColor = true;
-            this.AddSMButton.Click += new System.EventHandler(this.AddSMButton_Click);
-            // 
-            // UpdateButton
-            // 
-            this.UpdateButton.Location = new System.Drawing.Point(739, 563);
-            this.UpdateButton.Name = "UpdateButton";
-            this.UpdateButton.Size = new System.Drawing.Size(137, 39);
-            this.UpdateButton.TabIndex = 3;
-            this.UpdateButton.Text = "Изменить элемент таблицы тренеров";
-            this.UpdateButton.UseVisualStyleBackColor = true;
-            this.UpdateButton.Click += new System.EventHandler(this.UpdateButton_Click);
+            this.AddButton.Location = new System.Drawing.Point(12, 508);
+            this.AddButton.Name = "AddButton";
+            this.AddButton.Size = new System.Drawing.Size(114, 38);
+            this.AddButton.TabIndex = 2;
+            this.AddButton.Text = "Добавить";
+            this.AddButton.UseVisualStyleBackColor = true;
+            this.AddButton.Click += new System.EventHandler(this.AddButton_Click);
             // 
             // RemoveButton
             // 
-            this.RemoveButton.Location = new System.Drawing.Point(329, 563);
+            this.RemoveButton.Location = new System.Drawing.Point(12, 552);
             this.RemoveButton.Name = "RemoveButton";
-            this.RemoveButton.Size = new System.Drawing.Size(153, 38);
+            this.RemoveButton.Size = new System.Drawing.Size(114, 38);
             this.RemoveButton.TabIndex = 4;
-            this.RemoveButton.Text = "Удалить элемент таблицы со спортсменами";
+            this.RemoveButton.Text = "Удалить элемент таблицы";
             this.RemoveButton.UseVisualStyleBackColor = true;
             this.RemoveButton.Click += new System.EventHandler(this.RemoveButton_Click);
             // 
-            // SportsManGrid
+            // dataGrid
             // 
-            this.SportsManGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.SportsManGrid.Location = new System.Drawing.Point(12, 12);
-            this.SportsManGrid.Name = "SportsManGrid";
-            this.SportsManGrid.Size = new System.Drawing.Size(532, 483);
-            this.SportsManGrid.TabIndex = 0;
+            this.dataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGrid.Location = new System.Drawing.Point(12, 57);
+            this.dataGrid.Name = "dataGrid";
+            this.dataGrid.Size = new System.Drawing.Size(1023, 438);
+            this.dataGrid.TabIndex = 0;
             // 
-            // AddTrButton
+            // ChangeButton
             // 
-            this.AddTrButton.Location = new System.Drawing.Point(580, 563);
-            this.AddTrButton.Name = "AddTrButton";
-            this.AddTrButton.Size = new System.Drawing.Size(153, 39);
-            this.AddTrButton.TabIndex = 5;
-            this.AddTrButton.Text = "Добавить Тренера";
-            this.AddTrButton.UseVisualStyleBackColor = true;
-            this.AddTrButton.Click += new System.EventHandler(this.AddTrButton_Click);
-            // 
-            // ChangeSM
-            // 
-            this.ChangeSM.Location = new System.Drawing.Point(164, 563);
-            this.ChangeSM.Name = "ChangeSM";
-            this.ChangeSM.Size = new System.Drawing.Size(159, 38);
-            this.ChangeSM.TabIndex = 6;
-            this.ChangeSM.Text = "Изменить элемент таблицы спортсменов";
-            this.ChangeSM.UseVisualStyleBackColor = true;
-            this.ChangeSM.Click += new System.EventHandler(this.ChangeSM_Click);
-            // 
-            // RemoveTR
-            // 
-            this.RemoveTR.Location = new System.Drawing.Point(882, 563);
-            this.RemoveTR.Name = "RemoveTR";
-            this.RemoveTR.Size = new System.Drawing.Size(153, 38);
-            this.RemoveTR.TabIndex = 7;
-            this.RemoveTR.Text = "Удалить элемент таблицы с тренерами";
-            this.RemoveTR.UseVisualStyleBackColor = true;
-            this.RemoveTR.Click += new System.EventHandler(this.RemoveTR_Click);
+            this.ChangeButton.Location = new System.Drawing.Point(130, 508);
+            this.ChangeButton.Name = "ChangeButton";
+            this.ChangeButton.Size = new System.Drawing.Size(115, 38);
+            this.ChangeButton.TabIndex = 6;
+            this.ChangeButton.Text = "Изменить элемент таблицы";
+            this.ChangeButton.UseVisualStyleBackColor = true;
+            this.ChangeButton.Click += new System.EventHandler(this.ChangeButton_Click);
             // 
             // countButton
             // 
-            this.countButton.Location = new System.Drawing.Point(12, 519);
+            this.countButton.Location = new System.Drawing.Point(130, 552);
             this.countButton.Name = "countButton";
-            this.countButton.Size = new System.Drawing.Size(146, 38);
+            this.countButton.Size = new System.Drawing.Size(115, 38);
             this.countButton.TabIndex = 8;
-            this.countButton.Text = "Подсчитать количество спортсменов";
+            this.countButton.Text = "Подсчитать количество";
             this.countButton.UseVisualStyleBackColor = true;
             this.countButton.Click += new System.EventHandler(this.countButton_Click);
             // 
-            // trCountButton
+            // toolStrip1
             // 
-            this.trCountButton.Location = new System.Drawing.Point(580, 519);
-            this.trCountButton.Name = "trCountButton";
-            this.trCountButton.Size = new System.Drawing.Size(153, 38);
-            this.trCountButton.TabIndex = 9;
-            this.trCountButton.Text = "Подсчитать количество тренеров";
-            this.trCountButton.UseVisualStyleBackColor = true;
-            this.trCountButton.Click += new System.EventHandler(this.trCountButton_Click);
+            this.toolStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.stripButton1,
+            this.stripButton2});
+            this.toolStrip1.Location = new System.Drawing.Point(0, 0);
+            this.toolStrip1.Name = "toolStrip1";
+            this.toolStrip1.Size = new System.Drawing.Size(1047, 25);
+            this.toolStrip1.TabIndex = 14;
+            this.toolStrip1.Text = "toolStrip1";
             // 
-            // SelectNotAllSMButton
+            // stripButton1
             // 
-            this.SelectNotAllSMButton.Location = new System.Drawing.Point(164, 519);
-            this.SelectNotAllSMButton.Name = "SelectNotAllSMButton";
-            this.SelectNotAllSMButton.Size = new System.Drawing.Size(159, 38);
-            this.SelectNotAllSMButton.TabIndex = 10;
-            this.SelectNotAllSMButton.Text = "Вывести определённых спортсменов";
-            this.SelectNotAllSMButton.UseVisualStyleBackColor = true;
-            this.SelectNotAllSMButton.Click += new System.EventHandler(this.SelectNotAllSMButton_Click);
+            this.stripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.stripButton1.Image = ((System.Drawing.Image)(resources.GetObject("stripButton1.Image")));
+            this.stripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.stripButton1.Name = "stripButton1";
+            this.stripButton1.Size = new System.Drawing.Size(82, 22);
+            this.stripButton1.Text = "Спортсмены";
+            this.stripButton1.ToolTipText = "Спортсмены";
+            this.stripButton1.Click += new System.EventHandler(this.stripButton1_Click);
+            // 
+            // stripButton2
+            // 
+            this.stripButton2.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.stripButton2.Image = ((System.Drawing.Image)(resources.GetObject("stripButton2.Image")));
+            this.stripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.stripButton2.Name = "stripButton2";
+            this.stripButton2.Size = new System.Drawing.Size(60, 22);
+            this.stripButton2.Text = "Тренеры";
+            this.stripButton2.ToolTipText = "Тренеры";
+            this.stripButton2.Click += new System.EventHandler(this.stripButton2_Click);
             // 
             // trenerBindingSource
             // 
             this.trenerBindingSource.DataSource = typeof(_18.Trener);
             // 
-            // cityBox
+            // FilterButton
             // 
-            this.cityBox.Location = new System.Drawing.Point(329, 537);
-            this.cityBox.Name = "cityBox";
-            this.cityBox.Size = new System.Drawing.Size(153, 20);
-            this.cityBox.TabIndex = 11;
+            this.FilterButton.Location = new System.Drawing.Point(892, 552);
+            this.FilterButton.Name = "FilterButton";
+            this.FilterButton.Size = new System.Drawing.Size(143, 38);
+            this.FilterButton.TabIndex = 15;
+            this.FilterButton.Text = "Поиск данных";
+            this.FilterButton.UseVisualStyleBackColor = true;
+            this.FilterButton.Click += new System.EventHandler(this.FilterButton_Click);
             // 
-            // label1
+            // reportButton
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(329, 521);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(37, 13);
-            this.label1.TabIndex = 12;
-            this.label1.Text = "Город";
+            this.reportButton.Location = new System.Drawing.Point(892, 509);
+            this.reportButton.Name = "reportButton";
+            this.reportButton.Size = new System.Drawing.Size(143, 37);
+            this.reportButton.TabIndex = 16;
+            this.reportButton.Text = "Отчёт";
+            this.reportButton.UseVisualStyleBackColor = true;
+            this.reportButton.Click += new System.EventHandler(this.reportButton_Click);
+            // 
+            // diagramButton
+            // 
+            this.diagramButton.Location = new System.Drawing.Point(744, 552);
+            this.diagramButton.Name = "diagramButton";
+            this.diagramButton.Size = new System.Drawing.Size(142, 38);
+            this.diagramButton.TabIndex = 17;
+            this.diagramButton.Text = "Диаграмма";
+            this.diagramButton.UseVisualStyleBackColor = true;
+            this.diagramButton.Click += new System.EventHandler(this.diagramButton_Click);
             // 
             // MenuSport
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1047, 613);
-            this.Controls.Add(this.label1);
-            this.Controls.Add(this.cityBox);
-            this.Controls.Add(this.SelectNotAllSMButton);
-            this.Controls.Add(this.trCountButton);
+            this.ClientSize = new System.Drawing.Size(1047, 599);
+            this.Controls.Add(this.diagramButton);
+            this.Controls.Add(this.reportButton);
+            this.Controls.Add(this.FilterButton);
+            this.Controls.Add(this.toolStrip1);
             this.Controls.Add(this.countButton);
-            this.Controls.Add(this.RemoveTR);
-            this.Controls.Add(this.ChangeSM);
-            this.Controls.Add(this.AddTrButton);
+            this.Controls.Add(this.ChangeButton);
             this.Controls.Add(this.RemoveButton);
-            this.Controls.Add(this.UpdateButton);
-            this.Controls.Add(this.AddSMButton);
-            this.Controls.Add(this.TrenerGrid);
-            this.Controls.Add(this.SportsManGrid);
+            this.Controls.Add(this.AddButton);
+            this.Controls.Add(this.dataGrid);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "MenuSport";
             this.Text = "Form1";
-            ((System.ComponentModel.ISupportInitialize)(this.TrenerGrid)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.SportsManGrid)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).EndInit();
+            this.toolStrip1.ResumeLayout(false);
+            this.toolStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.trenerBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -205,20 +190,18 @@
         }
 
         #endregion
-        private System.Windows.Forms.DataGridView TrenerGrid;
-        private System.Windows.Forms.Button AddSMButton;
-        private System.Windows.Forms.Button UpdateButton;
+        private System.Windows.Forms.Button AddButton;
         private System.Windows.Forms.Button RemoveButton;
-        private System.Windows.Forms.DataGridView SportsManGrid;
+        private System.Windows.Forms.DataGridView dataGrid;
         private System.Windows.Forms.BindingSource trenerBindingSource;
-        private System.Windows.Forms.Button AddTrButton;
-        private System.Windows.Forms.Button ChangeSM;
-        private System.Windows.Forms.Button RemoveTR;
+        private System.Windows.Forms.Button ChangeButton;
         private System.Windows.Forms.Button countButton;
-        private System.Windows.Forms.Button trCountButton;
-        private System.Windows.Forms.Button SelectNotAllSMButton;
-        private System.Windows.Forms.TextBox cityBox;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.ToolStrip toolStrip1;
+        private System.Windows.Forms.ToolStripButton stripButton1;
+        private System.Windows.Forms.ToolStripButton stripButton2;
+        private System.Windows.Forms.Button FilterButton;
+        private System.Windows.Forms.Button reportButton;
+        private System.Windows.Forms.Button diagramButton;
     }
 }
 

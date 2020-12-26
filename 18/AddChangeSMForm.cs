@@ -34,7 +34,8 @@ namespace _18
             this.mode = mode;
 
             InitializeComponent();
-            InitializeForm();
+            if (mode == "Update")
+            { InitializeForm(); }
 
             for (int i = 0; i < this.db.treners.Count; i++)
                 Trener_IdBox.Items.Add(this.db.treners[i].LName);

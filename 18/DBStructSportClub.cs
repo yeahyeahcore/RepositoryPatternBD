@@ -29,14 +29,10 @@ namespace _18
 
         string connString;
         public DataBaseHandler(string connString)
-        {
-            this.connString = connString;
-        }
+        { this.connString = connString; }
 
         public DataTable GetTable()
-        {
-            return table;
-        }
+        { return table; }
 
         public NpgsqlDataReader GetReader()
         {
